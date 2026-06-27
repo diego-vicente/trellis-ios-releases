@@ -13,6 +13,14 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.0.30",
+          "date": "2026-06-27",
+          "localizedDescription": "Habit Streak widget (GitHub-style contribution graph per habit). Also: project renamed to Trellis.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.30/Trellis.ipa",
+          "size": 3767610,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.26",
           "date": "2026-06-27",
           "localizedDescription": "Calendar events, travel legs, drag-to-reschedule, and the overdue group.",
