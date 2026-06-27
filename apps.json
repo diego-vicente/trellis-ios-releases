@@ -1,0 +1,26 @@
+{
+  "name": "Diego's Apps",
+  "identifier": "codes.diego.trellis.source",
+  "apps": [
+    {
+      "name": "Trellis",
+      "bundleIdentifier": "codes.diego.Trellis",
+      "developerName": "Diego Vicente",
+      "subtitle": "Personal tasks, habits & planning.",
+      "localizedDescription": "Trellis is a personal task, habit and planning app: a compressed-time Today timeline with tasks, habits, calendar events and travel legs.",
+      "iconURL": "https://raw.githubusercontent.com/diego-vicente/trellis-ios-releases/main/icon.png",
+      "tintColor": "179299",
+      "category": "productivity",
+      "versions": [
+        {
+          "version": "1.0.26",
+          "date": "2026-06-27",
+          "localizedDescription": "Calendar events, travel legs, drag-to-reschedule, and the overdue group.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.26/Trellis.ipa",
+          "size": 3673399,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ]
+}
