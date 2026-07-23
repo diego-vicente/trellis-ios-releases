@@ -13,6 +13,14 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.0.34",
+          "date": "2026-07-23",
+          "localizedDescription": "Groceries: new tab with a per-category shopping list (check items off as bought). Contexts: Personal and Work merged into one tab with a toggle. Plus the in-app habit contribution graph, tappable habit widgets, and two-line widget titles.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.34/Trellis.ipa",
+          "size": 3860781,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.32",
           "date": "2026-07-03",
           "localizedDescription": "Widgets: fixed the habit picker showing no habits (dev/stable no longer share a container), and habit cells now shade by progress like the Obsidian tracker \u2014 partial completions and over-target days included. Composed habits (e.g. Tidy the house) now show partial progress.",
