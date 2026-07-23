@@ -13,6 +13,14 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.0.38",
+          "date": "2026-07-23",
+          "localizedDescription": "Timeline fix + faster planning. Completed past-day tasks no longer clutter today's timeline. New: the + button asks Event or Task; tap a free gap on the timeline to create an event there; every event block has an '+ Add' to nest an existing task/habit or a brand-new task; swipe a task in Contexts to timebox it under an event.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.38/Trellis.ipa",
+          "size": 4028772,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.36",
           "date": "2026-07-23",
           "localizedDescription": "Habit timeboxing: nest habits inside events too. A habit's graph screen now has a 'Timebox today' picker to slot today's occurrence under an event (native or your Google/Apple calendar events); timeboxed habits appear nested under their block on the Today timeline alongside tasks.",
