@@ -13,6 +13,14 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.0.36",
+          "date": "2026-07-23",
+          "localizedDescription": "Habit timeboxing: nest habits inside events too. A habit's graph screen now has a 'Timebox today' picker to slot today's occurrence under an event (native or your Google/Apple calendar events); timeboxed habits appear nested under their block on the Today timeline alongside tasks.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.36/Trellis.ipa",
+          "size": 3979679,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.35",
           "date": "2026-07-23",
           "localizedDescription": "Timeboxing: nest tasks inside events. New backend-stored events show on the Today timeline; a task's detail has a Timebox picker to slot it under an event (including your Google/Apple calendar events), and timeboxed tasks appear nested under their block. Add events with the new toolbar button on Today.",
