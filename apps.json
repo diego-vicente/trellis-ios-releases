@@ -13,6 +13,14 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.0.35",
+          "date": "2026-07-23",
+          "localizedDescription": "Timeboxing: nest tasks inside events. New backend-stored events show on the Today timeline; a task's detail has a Timebox picker to slot it under an event (including your Google/Apple calendar events), and timeboxed tasks appear nested under their block. Add events with the new toolbar button on Today.",
+          "downloadURL": "https://github.com/diego-vicente/trellis-ios-releases/releases/download/v1.0.35/Trellis.ipa",
+          "size": 3948959,
+          "minOSVersion": "26.0"
+        },
+        {
           "version": "1.0.34",
           "date": "2026-07-23",
           "localizedDescription": "Groceries: new tab with a per-category shopping list (check items off as bought). Contexts: Personal and Work merged into one tab with a toggle. Plus the in-app habit contribution graph, tappable habit widgets, and two-line widget titles.",
